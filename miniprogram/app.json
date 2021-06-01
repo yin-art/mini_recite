@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/history/history",
+    "pages/mine/mine",
+    "pages/sentence_show/sentenc_show",
+    "pages/word_show/word_show"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
