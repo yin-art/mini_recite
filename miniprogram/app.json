@@ -6,6 +6,27 @@
     "pages/sentence_show/sentenc_show",
     "pages/word_show/word_show"
   ],
+
+  "tabBar": {
+    "selectedColor": "#ff2400",
+    "color":"black",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "首页",
+      "iconPath":"../miniprogram/images/home.png",
+      "selectedIconPath":"../miniprogram/images/home1.png"
+    },{
+      "pagePath": "pages/history/history",
+      "text": "历史记录",
+      "iconPath":"../miniprogram/images/history.png",
+      "selectedIconPath":"../miniprogram/images/history1.png"
+    },{
+      "pagePath": "pages/mine/mine",
+      "text": "我的",
+      "iconPath":"../miniprogram/images/mine2.png",
+      "selectedIconPath":"../miniprogram/images/mine21.png"
+    }]
+  },
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
